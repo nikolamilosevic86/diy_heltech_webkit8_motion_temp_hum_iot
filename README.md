@@ -1,4 +1,4 @@
-# Do it Yourself IoT device using Healtech WebKit8
+# Do it Yourself IoT device using Healtech WifiKit8
 
 Internet of things device made using heltech webkit 8 and a couple of sensors (motion, temperature, humidity), with do it yourself guide and schemas. The device was made as a spare time project and me wanting to learn something new.
 
