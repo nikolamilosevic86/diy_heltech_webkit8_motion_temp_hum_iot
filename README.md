@@ -17,7 +17,8 @@ Other components:
 
 ## Blog post describing the process
 
-Comming soon
+https://datawarrior.medium.com/making-my-first-internet-of-things-device-for-measuring-temperature-humidity-and-motion-d4b36f1d50a8
+https://inspiratron.org/blog/2021/02/27/making-my-first-internet-of-things-device-for-measuring-temperature-humidity-and-motion
 
 ## Content of the project
 
